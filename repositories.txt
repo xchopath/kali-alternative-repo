@@ -1,0 +1,12 @@
+http://kebo.pens.ac.id/kali
+http://mirrors.ocf.berkeley.edu/kali
+http://mirrors.cloud.tencent.com/kali
+http://ftp.tku.edu.tw/Linux/Kali/kali
+https://tux.rainside.sk/kali
+https://mirror.kku.ac.th/kali
+https://ftp.tsukuba.wide.ad.jp/kali
+https://mirror.math.princeton.edu/pub/kali
+http://ftp.jaist.ac.jp/pub/Linux/kali
+https://mirror.zju.edu.cn/kali
+http://ftp.yz.yamagata-u.ac.jp/pub/linux/kali
+http://mirror.primelink.net.id/kali
